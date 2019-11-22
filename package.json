@@ -1,0 +1,26 @@
+{
+  "name": "markovbotreader",
+  "version": "1.0.0",
+  "description": "Reads Twitch chat from whatever channels entered, and aggregates the messages of all usernames entered.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dshulman130/MarkovBotReader.git"
+  },
+  "keywords": [
+    "Twitch",
+    "Bot",
+    "Chat",
+    "Reader",
+    "Node"
+  ],
+  "author": "David Shulman",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/dshulman130/MarkovBotReader/issues"
+  },
+  "homepage": "https://github.com/dshulman130/MarkovBotReader#readme"
+}
