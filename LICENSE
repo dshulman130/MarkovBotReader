@@ -1,3 +1,10 @@
+ ___ ___   ____  ____   __  _   ___   __ __      ____    ___   ______      ____     ___   ____  ___      ___  ____  
+|   T   T /    T|    \ |  l/ ] /   \ |  T  |    |    \  /   \ |      T    |    \   /  _] /    T|   \    /  _]|    \ 
+| _   _ |Y  o  ||  D  )|  ' / Y     Y|  |  |    |  o  )Y     Y|      |    |  D  ) /  [_ Y  o  ||    \  /  [_ |  D  )
+|  \_/  ||     ||    / |    \ |  O  ||  |  |    |     T|  O  |l_j  l_j    |    / Y    _]|     ||  D  YY    _]|    / 
+|   |   ||  _  ||    \ |     Y|     |l  :  !    |  O  ||     |  |  |      |    \ |   [_ |  _  ||     ||   [_ |    \ 
+|   |   ||  |  ||  .  Y|  .  |l     ! \   /     |     |l     !  |  |      |  .  Y|     T|  |  ||     ||     T|  .  Y
+l___j___jl__j__jl__j\_jl__j\_j \___/   \_/      l_____j \___/   l__j      l__j\_jl_____jl__j__jl_____jl_____jl__j\_j                                                                                                                                                                          
                                  Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
@@ -186,7 +193,7 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [yyyy] [name of copyright owner]
+   Copyright 2019 David Shulman
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
