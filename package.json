@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/dshulman130/MarkovBotReader/issues"
   },
-  "homepage": "https://github.com/dshulman130/MarkovBotReader#readme"
+  "homepage": "https://github.com/dshulman130/MarkovBotReader#readme",
+  "dependencies": {
+    "twitch-js": "^1.2.17"
+  }
 }
