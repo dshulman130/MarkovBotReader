@@ -1,3 +1,7 @@
+/*
+SOURCED FROM: https://github.com/keithyong/twitch-markov/blob/master/markov.js
+*/
+
 var fs = require('fs');
 var FINAL_STATE = 'FINAL_STATE';
 var FINAL_STATE_SPACED = ' ' + FINAL_STATE + ' ';

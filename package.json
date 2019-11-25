@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/dshulman130/MarkovBotReader#readme",
   "dependencies": {
+    "requirejs": "^2.3.6",
     "twitch-js": "^1.2.17"
   }
 }
