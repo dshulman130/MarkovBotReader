@@ -4,7 +4,7 @@
 // except for 'app' ones, which are in a sibling
 // directory.
 requirejs.config({
-    baseUrl: 'lib',
+    baseUrl: 'node_modules',
     paths: {
         app: '../app'
     }
@@ -12,4 +12,6 @@ requirejs.config({
 
 // Start loading the main app file. Put all of
 // your application logic in there.
-requirejs(['app/main']);
+requirejs(['app/bot']);
+
+// Require is hard: https://requirejs.org/docs/api.html
