@@ -1,2 +1,2 @@
 # MarkovBotReader
-Reads chats from whatever username is entered from whatever Twitch channels you want. Made this to aggregate all messages MarkovBot generates 
+Reads chats from whatever Twitch channels you want, then generates new chat messages using a Markov chain 
