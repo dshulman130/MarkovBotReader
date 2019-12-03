@@ -66,7 +66,8 @@ function generate_sentence() {
 }
 
 module.exports = function init(filename) {
+    ///TODO THIS IS ONLY EVER LOADING THE FILE ONCE, FIX THIS, MARKOV IS MAKING THE SAME SHIT OVER AND OVER AGAIN
+    console.log('INITIALIZING MARKOV WITH UPDATED FILE BEEP BOOP');
     this.transitions =  build_transitions(load_and_format_file(filename));
-
     return generate_sentence.bind(this);
 }
